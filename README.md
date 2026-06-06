@@ -4,7 +4,7 @@ A small companion cat that lives on your desktop while you work — pomodoro tim
 reminders, AI-agent awareness, a pattern editor, and a **Music Mode** that makes
 the cat listen and dance to whatever you're playing on Spotify or YouTube.
 
-> **Made by Amazing Man.** Built on top of the original *Catjang* by jan (nerfspeed),
+> **Made by Amazing Man.** 
 > used under CC BY-NC 4.0. See [`License.md`](./License.md).
 
 ## What's new in this build
