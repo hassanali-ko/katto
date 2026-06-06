@@ -98,8 +98,7 @@ presets/  svg/  workspace/  assets/
 
 ## License & credit
 
-This is a modified build by **Amazing Man**. The underlying project, *Catjang*, was
-created by **jan (nerfspeed on Discord)** and is licensed **CC BY-NC 4.0**
+This is build by **Amazing Man** and is licensed **CC BY-NC 4.0**
 (free to use and modify, non-commercial, with attribution). Keep the credit to the
 original author, and don't sell this or any derivative. Full terms in
 [`License.md`](./License.md).
